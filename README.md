@@ -1,8 +1,8 @@
-<h1>Capstone Project : Tetris Game</h1>
+<h1>Tetris Game</h1>
 <h3>Description:</h3>
 <ul>
   <li>This is a game that emulates the original tetris game.</li>
-  <li>We made this project completely using only C language and some 3rd party libraries.</li>
+  <li>I made this project completely using only C language and some 3rd party libraries.</li>
 </ul>
 
 <h3>Features:</h3>
